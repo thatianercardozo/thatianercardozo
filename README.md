@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou Thatiane 
 
-<!--
-**thatianercardozo/thatianercardozo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Analyst com experiência em testes funcionais, homologação e Scrum.
 
-Here are some ideas to get you started:
+Atualmente estudando:
+- API Testing
+- Postman
+- Automação de Testes
+- Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Conhecimentos:
+- QA
+- Functional Testing
+- Regression Testing
+- Scrum
+- CTFL
+- GitHub
+
+Em processo de atualização técnica para retorno ao mercado de tecnologia.
